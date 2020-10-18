@@ -8,16 +8,24 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Arushi Kohli",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.5.4"
   },
   "dependencies": {
-    "bootstrap": "^4.5.2",
+    "bootstrap": "^4.5.3",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
-  }
+    "popper.js": "^1.12.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arushikohli5/Shoeland.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arushikohli5/Shoeland/issues"
+  },
+  "homepage": "https://github.com/arushikohli5/Shoeland#readme"
 }
