@@ -32,76 +32,76 @@
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:hover .dropbtn {background-color: white;}
-      input[type=text]{
-          float:right;
-      }
-      table{
-          width:100%;
-      }
+    input[type=text]{
+      float:right;
+    }
+    table{
+      width:100%;
+    }
   h1{
-      color: black;
-      font-style: italic;
-      font-family: "courier new",momnospace;
+    color:#c1f0c1;
+    font-style: italic;
+    font-family: "courier new",momnospace;
   }
   body{
-      background-image:url("img/motti.jpg");
-      background-repeat:no-repeat;
-      
-       background-size: cover;
+    background-image:url("img/motti.jpg");
+    background-repeat:no-repeat;
+    
+     background-size: cover;
     position: relative;
   }
   .i{
-      float:right;
+    float:right;
   }
   .t{
   border:none;
   }
   a:link{
-      color:#330000;
+    color:#330000;
   text-decoration:none;
   }
   a:visited{
-      color:#330000;
+    color:#330000;
   text-decoration:none;
   }
   a:hover{
-      color:red;
+    color:red;
   text-decoration:none;
   }
   .a:hover {background-color:white;}
-  table#tt {
-  border:2px solid white;
-  width:100%;
-  background-color:#c3c388;
-  }
-  p{
-  
-      margin: 0px 0px 0px 0px;
-  }
+ 
   .navbar-nav > li{
-      margin-left:30px;
+    margin-left:30px;
     margin-right:30px;
   }
   .navbar{ 
               background-color: #c3c388; 
-              border-bottom:2px solid #000;
-              border-left:2px solid #000;
-              border-right:2px solid #000;
-              border-top:2px solid #000;
+             color: #330000;
   
           }
   .navbar-custom .navbar-text { 
               color: #330000; 
           }
          .dropdown-menu{
-             background-color: #c3c388;
+           background-color: #c3c388;
          } 
          .dropdown-menu a:hover{
-             color:red;
+           color:red;
          }
   .jumbotron{
-          padding: 70px,30px,70px,30px;
+          padding: 20px;
+          margin-top:10px;
           margin: 0px auto;
-          background-color: #ffff99;
-          color: floralwhite;
+          background-color: #cccc99;
+          color: #e6ffe6;
       }
+      .row-header{
+        margin:30px auto;
+        padding: 0px auto;
+    }
+    .row-content{
+        margin:0xp auto ;
+        padding:50px,0px,50px,00px auto;
+        border-bottom: 1px ridge;
+        min-height: 400px;
+    }
